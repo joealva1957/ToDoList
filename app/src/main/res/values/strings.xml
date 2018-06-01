@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_activity_bandeja">BandejaActivity</string>
+    <string name="item_title">Title</string>
+    <string name="item_description">Description</string>
+    <string name="item_update">Update</string>
+    <string name="item_delete">Delete</string>
+    <string name="item_new">New task</string>
+</resources>
