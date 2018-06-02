@@ -1,9 +1,13 @@
 <resources>
-    <string name="app_name">ToDoList</string>
+    <string name="app_name">Ordered List</string>
     <string name="title_activity_bandeja">BandejaActivity</string>
-    <string name="item_title">Title</string>
-    <string name="item_description">Description</string>
+    <string name="item_title">Nombre de la tarea</string>
+    <string name="item_description">Descripción</string>
     <string name="item_update">Update</string>
     <string name="item_delete">Delete</string>
-    <string name="item_new">New task</string>
+    <string name="item_new">Nueva tarea</string>
+    <string name="item_due_date">Fecha de entrega</string>
+    <string name="item_descriptive_image">Descriptive image</string>
+    <string name="item_list_view">List</string>
+    <string name="item_grid_view">Grid</string>
 </resources>
